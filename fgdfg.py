@@ -1,1 +1,2 @@
 print("ragaca")
+#sxva komentari
